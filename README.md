@@ -10,7 +10,7 @@ This document serves as a library of the Data Science tools that I am familiar w
 5. Evaluating Model Performance
 
 I have also added a section that describes that data that I have used throughout this document in order to run examples of each technique. Here are some examples of the techniques that I cover in this document:
-- Kenrlel Density Estimation
+- Kernel Density Estimation
 - Synthetic Minority Oversampling Technique
 - Principal Component Analysis
 - Truncated SVD
