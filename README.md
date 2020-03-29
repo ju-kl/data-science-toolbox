@@ -7,7 +7,7 @@ This document serves as a library of the Data Science tools that I am familiar w
 2. Feature Engineering
 3. Unsupervised Learning
 4. Supervised Learning
-5. Evaluating Model Performance
+5. Model Assessment
 
 I have also added a section that describes that data that I have used throughout this document in order to run examples of each technique. Here are some examples of the techniques that I cover in this document:
 - Kernel Density Estimation
