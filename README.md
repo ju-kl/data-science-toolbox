@@ -19,6 +19,8 @@ I have also added a section that describes that data that I have used throughout
 - DBSCAN
 - Agglomerative Clustering
 - Linear Regression
+- Lasso Regression
+- Ridge Regression
 - Logistic Regression
 - K-Nearest Neighbors
 - Apriori Algorithm
