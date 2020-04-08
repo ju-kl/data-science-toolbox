@@ -18,6 +18,7 @@ I have also added a section that describes that data that I have used throughout
 - K-Means
 - DBSCAN
 - Agglomerative Clustering
+- Copulas
 - Linear Regression
 - Lasso Regression
 - Ridge Regression
