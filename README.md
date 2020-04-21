@@ -1,5 +1,4 @@
 # Data Science Toolbox
-### Author: Julian Kleindiek
 
 This repository represents a library with the Data Science tools that I am familiar with. I use it to document all techniques that I have learned throughout my Master in Analytics at the University of Chicago. I learned about these techniques in classes such as Statistical Analysis, Non-Linear Models, Data Mining, Machine Learning, and Deep Learning and applied them in several projects that can be found on my profile as well. The repository is structured along the typical pipline of a data science project: 
 1. Data Exploration
