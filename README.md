@@ -22,9 +22,9 @@ I have also added a section on some stats background, misc methods and the data 
 - Ridge Regression
 - Logistic Regression
 - K-Nearest Neighbors
-- Apriori Algorithm
 - Support Vector Machines
 - Decision Trees
 - Random Forrest
 - Gradient Boosting
 - Graph Networks
+- Apriori Algorithm
